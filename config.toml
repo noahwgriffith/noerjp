@@ -1,0 +1,30 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Noer JP - How to learn Japanese"
+
+theme = "PaperMod"
+
+[[menu.main]]
+identifier = "posts"
+name = "posts"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "about"
+name = "about"
+url = "/about/"
+weight = 30
+
+[[menu.main]]
+identifier = "linktree"
+name = "linktree"
+url = "https://linktr.ee/noerjp"
+weight = 40
+
