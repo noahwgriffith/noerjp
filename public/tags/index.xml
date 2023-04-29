@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Noer JP - How to learn Japanese</title>
+    <title>Tags on Noer JP - How to Learn Any Language</title>
     <link>https://noerjp.onrender.com/tags/</link>
-    <description>Recent content in Tags on Noer JP - How to learn Japanese</description>
+    <description>Recent content in Tags on Noer JP - How to Learn Any Language</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://noerjp.onrender.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Apr 2023 15:53:59 -0400</lastBuildDate><atom:link href="https://noerjp.onrender.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>beginner</title>
+      <link>https://noerjp.onrender.com/tags/beginner/</link>
+      <pubDate>Sat, 29 Apr 2023 15:53:59 -0400</pubDate>
+      
+      <guid>https://noerjp.onrender.com/tags/beginner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guide</title>
+      <link>https://noerjp.onrender.com/tags/guide/</link>
+      <pubDate>Sat, 29 Apr 2023 15:53:59 -0400</pubDate>
+      
+      <guid>https://noerjp.onrender.com/tags/guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intro-series</title>
+      <link>https://noerjp.onrender.com/tags/intro-series/</link>
+      <pubDate>Sat, 29 Apr 2023 15:53:59 -0400</pubDate>
+      
+      <guid>https://noerjp.onrender.com/tags/intro-series/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

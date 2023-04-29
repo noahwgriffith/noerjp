@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Noer JP - How to Learn Any Language</title>
-    <link>https://noerjp.onrender.com/</link>
-    <description>Recent content on Noer JP - How to Learn Any Language</description>
+    <title>guide on Noer JP - How to Learn Any Language</title>
+    <link>https://noerjp.onrender.com/tags/guide/</link>
+    <description>Recent content in guide on Noer JP - How to Learn Any Language</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Apr 2023 15:53:59 -0400</lastBuildDate><atom:link href="https://noerjp.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Apr 2023 15:53:59 -0400</lastBuildDate><atom:link href="https://noerjp.onrender.com/tags/guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Start Here</title>
       <link>https://noerjp.onrender.com/posts/start-here/</link>
@@ -27,16 +27,6 @@ Who is this for? Friends have asked me how to learn a language. Hi Kyle. Hi Jack
       <description>Confusion There often seems to be confusion about what is meant by immersion. Most people assume it has something to do with living in the country in which your target language is spoken. They assume they need to plan a trip to this country and, after having learned the basics at home, they will magically develop fluency just by being on that country&amp;rsquo;s soil.
 Well the good news is that none of that is quite accurate.</description>
     </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://noerjp.onrender.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://noerjp.onrender.com/about/</guid>
-      <description>Most guides about how to learn a language are either too complicated, or give poor advice (sorry!). So I wanted to write my own to keep things simple for new learners. More detailed guides are useful, but in my experience getting a new person into immersion is already overwhelming. The added stress of terminology (i+1? Comprehensible input? Beuller? Beuller?), anki settings, passive:listening:reading:active ratios, and fighting over methodology tends to instantly turn people off.</description>
-    </item>
-    
     
   </channel>
 </rss>

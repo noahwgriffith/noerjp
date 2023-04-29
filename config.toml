@@ -1,13 +1,26 @@
 baseURL = "https://noerjp.onrender.com/"
 languageCode = "en-us"
-title = "Noer JP - How to learn Japanese"
+title = "Noer JP - How to Learn Any Language"
 
 theme = "PaperMod"
 
+[params]
+ShowShareButtons = true
+ShowToc =  true
+ShowReadingTime = true
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+
 [[menu.main]]
-identifier = "posts"
-name = "posts"
-url = "/posts/"
+identifier = "intro series"
+name = "intro series"
+url = "/tags/intro-series"
+weight = 1
+
+[[menu.main]]
+identifier = "archive"
+name = "archive"
+url = "/archives/"
 weight = 10
 
 [[menu.main]]
@@ -27,4 +40,9 @@ identifier = "linktree"
 name = "linktree"
 url = "https://linktr.ee/noerjp"
 weight = 40
+
+# [params.homeInfoParams]
+# Title = "Noer JP"
+# Content = "A guide to learning any language effectively.　言語を身に着ける方法。"
+
 

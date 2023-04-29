@@ -1,8 +1,9 @@
 ---
 title: "Start Here"
 date: 2023-04-28T18:05:16-04:00
-tags: ['guide', 'beginner']
+tags: ['guide', 'beginner', 'intro-series']
 draft: false
+weight: 9999
 ---
 You want to learn Japanese (or another language). This website is about how to do that effectively.
 
@@ -12,7 +13,7 @@ This website is not a detailed explanation about why that works. (Though there w
 Friends have asked me how to learn a language. Hi Kyle. Hi Jack. I wanted to put a concise explanation online so people can read it. This method is geared towards getting a high level of fluency in the language. If you want to order a meal on your next trip to Barcelona, this is overkill. If you want to read comics, make friends, and watch TV, keep reading.
 
 # What does it mean to learn a language?
-Learning a language and acquiring it are different. Learning it is what you are accustomed to doing in school. This involves rote memorization and the useage of grammar rules. Acquiring a language is what you did to learn your native language. It's the reason I am able to write this article right now without my brain exploding. Your goal is to replicate this process. You want to be able to use the language you've heard/read without thinking to hard about it.
+Learning a language and acquiring it are different. Learning it is what you are accustomed to doing in school. This involves rote memorization and the useage of grammar rules. Acquiring a language is what you did to learn your native language. It's the reason I am able to write this article right now without my brain exploding. Your goal is to replicate this process. You want to be able to use the language you've heard/read without thinking too hard about it.
 
 # Why does it matter?
 Because if you get stuck using textbooks and classrooms to learn, you will never reach your goal.

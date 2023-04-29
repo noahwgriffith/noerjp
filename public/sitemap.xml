@@ -3,31 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://noerjp.onrender.com/</loc>
-    <lastmod>2023-04-28T18:05:16-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://noerjp.onrender.com/posts/</loc>
-    <lastmod>2023-04-28T18:05:16-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://noerjp.onrender.com/posts/start-here/</loc>
     <lastmod>2023-04-28T18:05:16-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://noerjp.onrender.com/about/</loc>
-    <lastmod>2023-04-28T17:35:00-04:00</lastmod>
+    <loc>https://noerjp.onrender.com/tags/beginner/</loc>
+    <lastmod>2023-04-29T15:53:59-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://noerjp.onrender.com/categories/</loc>
+    <loc>https://noerjp.onrender.com/tags/guide/</loc>
+    <lastmod>2023-04-29T15:53:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noerjp.onrender.com/tags/intro-series/</loc>
+    <lastmod>2023-04-29T15:53:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noerjp.onrender.com/</loc>
+    <lastmod>2023-04-29T15:53:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noerjp.onrender.com/posts/</loc>
+    <lastmod>2023-04-29T15:53:59-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://noerjp.onrender.com/tags/</loc>
+    <lastmod>2023-04-29T15:53:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noerjp.onrender.com/posts/what-is-immersion/</loc>
+    <lastmod>2023-04-29T15:53:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noerjp.onrender.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://noerjp.onrender.com/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://noerjp.onrender.com/categories/</loc>
   </url>
   
 </urlset>
