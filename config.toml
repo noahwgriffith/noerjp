@@ -4,12 +4,15 @@ title = "Noer JP - How to Learn Any Language"
 
 theme = "PaperMod"
 
+disqusShortname = 'noerjp'
+
 [params]
 ShowShareButtons = true
 ShowToc =  true
 ShowReadingTime = true
 ShowBreadCrumbs = true
 ShowPostNavLinks = true
+Comments = true
 
 [[menu.main]]
 identifier = "intro series"
