@@ -1,6 +1,7 @@
 ---
 title: "Start Here"
 date: 2023-04-28T18:05:16-04:00
+tags: [('guide', 'beginner')]
 draft: false
 ---
 You want to learn Japanese (or another language). This website is about how to do that effectively.
@@ -23,7 +24,7 @@ For reasons I will not explain here ([other people](https://ja.wikipedia.org/wik
 
 > I can't understand anything yet. How am I supposed to get anything out of watching a TV show?
 
-That's why you should start by learning vocabularly. But more importantly, even if you understand exactly 0%, your brain will still be getting used to the sounds. Most languages you try to learn will have sounds that don't exist in your target language. You have to start getting used to them.
+That's why you should start by learning vocabularly. But more importantly, even if you understand exactly 0%, your brain will still be getting used to the sounds. Most languages you try to learn will have sounds that don't exist in your native language. You have to start getting used to them.
 
 Give it a shot. After your first few episodes of TV you will find yourself saying "wait, I think I've heard that before."
 
