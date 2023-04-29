@@ -1,7 +1,7 @@
 ---
 title: "Start Here"
 date: 2023-04-28T18:05:16-04:00
-tags: [('guide', 'beginner')]
+tags: ['guide', 'beginner']
 draft: false
 ---
 You want to learn Japanese (or another language). This website is about how to do that effectively.
