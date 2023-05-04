@@ -10,3 +10,5 @@ Most guides about how to learn a language are either too complicated, or give po
 (Don't get me wrong, those conversations are interesting and useful. They're just overwhelming for someone who barely knows 20 words in their target language.)
 
 So this guide for those absolute beginners. If you already understand immersion learning, the other resources in [my linktree](https://linktr.ee/noerjp) will be more useful to you.
+
+BTW, I was 100% inspired by [AJATT](http://www.alljapaneseallthetime.com/blog/all-japanese-all-the-time-ajatt-how-to-learn-japanese-on-your-own-having-fun-and-to-fluency/).

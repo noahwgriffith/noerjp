@@ -1,6 +1,7 @@
 ---
 title: "You're Just a Baby (And Why You Shouldn't Talk With Natives)"
 date: 2023-05-04T11:11:01-04:00
+tags: ['guide', 'advanced', 'motivation']
 draft: false
 ---
 
@@ -40,7 +41,7 @@ Nobody is asking for perfection, but being intelligible and speaking accurately 
 No. And here's why.
 
 When someone speaks English that badly, you talk to them like a baby. When you talk to them like a baby, your English is
-*necessarily limited*. You don't speak quickly and naturally, and your vocabulary is limited I firmly believe this is why speaking early
+*necessarily limited*. You don't speak quickly and naturally, and your vocabulary is limited. I firmly believe this is why speaking early
 works so well at first, but you quickly stop progressing once you hit the level of a baby.
 
 ## OK. Then Where *Will* I Learn?
