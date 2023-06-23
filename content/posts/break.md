@@ -2,6 +2,7 @@
 title: "Why You Should(n't) Take a Break"
 date: 2023-06-22T18:32:48-04:00
 draft: false
+tags: ['guide', 'advice']
 ---
 
 # Small Break
