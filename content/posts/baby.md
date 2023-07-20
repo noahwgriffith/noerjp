@@ -46,7 +46,6 @@ works so well at first, but you quickly stop progressing once you hit the level 
 
 ## OK. Then Where *Will* I Learn?
 
-
 By far the most common question I get from Jack is
 
 > Where will I learn X? How do I learn X? Do you have tips for getting used to X?
@@ -138,5 +137,3 @@ You're just a baby. I was just a baby 20 years ago. Now I like to think my Engli
 Too many links?
 
 -N
-
-

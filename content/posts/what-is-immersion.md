@@ -62,6 +62,7 @@ time for this every single day. And you throw on a little Japanese every chance 
 If nothing else, I suggest you take this away.
 
 Good immersion looks like:
+
 1. Interesting content
 2. Looking things up in a dictionary
 3. **Not** translating entire sentences

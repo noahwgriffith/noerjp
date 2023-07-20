@@ -34,7 +34,7 @@ Learning vocabulary will make this prcess faster.
 > Okay. I trust you, stranger on the internet. How should I start?
 
 # How to start
-1. Learn vocabularly. I reccomend you use an SRS like anki. Most people agree. Because you've just started, anything works. My friend Kyle uses duolingo. I hate duolingo. But it works for him. And he knows what his goals are.
+1. Learn vocabularly. I recommend you use an SRS like anki. Most people agree. Because you've just started, anything works. My friend Kyle uses duolingo. I hate duolingo. But it works for him. And he knows what his goals are.
 2. Listen. For the reasons mentioned previously.
 3. Read. You should be literate. Plus, it's a super effective way to learn more vocabulary. Especially once you've overcome the initial learning curve.
 4. Repeat. Do this until you kind of understand Japanese. Or Danish. Or French. Or Cantonese. or [Xhosa](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B5%E8%AA%9E).
