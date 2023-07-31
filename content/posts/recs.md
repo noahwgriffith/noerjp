@@ -86,3 +86,7 @@ Great for beginners.
 ![monogatari](/monogatari.jpg)
 
 The wordplay can be really cool but confusing for beginners. Still, it's not actually THAT hard.
+
+
+
+-N
