@@ -87,6 +87,4 @@ Great for beginners.
 
 The wordplay can be really cool but confusing for beginners. Still, it's not actually THAT hard.
 
-
-
 -N
